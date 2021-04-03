@@ -3,7 +3,7 @@ This is a game revolving around crews that sink each other on a wide, open ocean
 
 ## Important Notice
 This project is not affiliated with the online game [krew.io](https://krew.io). Krew is an illegal clone of this project, with no credit given whatsoever, hosted by [LapaMauve](https://github.com/LapaMauve) and [ITSDABOMB](https://github.com/Itsdabombgit).
-### Prequisites
+### Prerequisites
  * Node.js v14
  * NPM v7
  * NGINX
