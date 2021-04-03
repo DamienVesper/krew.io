@@ -1,6 +1,8 @@
 # Krew.io
-This is the production repository (working title) for Krew.io.
+This is a game revolving around crews that sink each other on a wide, open ocean, with islands in between.
 
+## Important Notice
+This project is not affiliated with the online game [krew.io](https://krew.io). Krew is an illegal clone of this project, with no credit given whatsoever, hosted by [LapaMauve](https://github.com/LapaMauve) and [ITSDABOMB](https://github.com/Itsdabombgit).
 ### Prequisites
  * Node.js v14
  * NPM v7
@@ -55,8 +57,8 @@ systemctl enable --now mongod
 ```sh
 cd /opt
 
-git clone --depth=1 https://krewiogit:J5nETmjUkf59z9A@github.com/Krew-io/krew2.io.git
-git clone --depth=1 https://github.com/Krew-io/krew-wiki.git
+git clone --depth=1 https://github.com/Krew-io/krew2.io
+git clone --depth=1 https://github.com/Krew-io/krew-wiki
 ```
 
 ### Get SSL Certificate
