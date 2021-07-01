@@ -2,7 +2,7 @@
 This is a game revolving around crews that sink each other on a wide, open ocean, with islands in between.
 
 ## Important Notice
-This project is not affiliated with the online game [krew.io](https://krew.io). Krew is a clone of this project, with no credit given whatsoever, hosted by [LapaMauve](https://github.com/LapaMauve). The official Discord for the continuation of this project can be found [here](https://discord.boatgame.io).
+This project is not affiliated with the online game [krew.io](https://krew.io), which is a clone of this project, with no credit given whatsoever, hosted by [LapaMauve](https://github.com/LapaMauve). The official Discord for the continuation of this project can be found [here](https://discord.boatgame.io).
 ### Prerequisites
  * Node.js v14
  * NPM v7
